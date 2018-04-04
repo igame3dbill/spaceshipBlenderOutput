@@ -1,2 +1,25 @@
 # spaceshipBlenderOutput
 GUI for windowless Blender Procedural Spaceships Output
+
+ 1: Download and Install a1studmuffin Spaceship Generator for Blender
+https://github.com/a1studmuffin/SpaceshipGenerator
+
+This program does not do that install. Learn how to from
+https://youtu.be/0v9JOEaVJu4?t=34s
+
+ 2: Click Path To Blender and find your Blender.exe
+
+ 3: Optional Choose a New Destination Folder for your Spaceship output folder
+ 
+ 4: Optional: Change  Your Spaceship Name , this will reflect in the ships folder as well
+ 
+ 5: Optional: Change the number of random ships to output each time.
+ 
+ 6: Press "RUN"
+ 
+This will write 
+Your Space Ship Name_Macro.cmd and Your Spaceship NameGenerator.py to the Destination directory 
+ 
+ The Macro.cmd executes faceless Blender and the Generator.py
+ The Generator.py has specifics for the spaceship file names and clearing the blender scene for sequentil builds
+ 
