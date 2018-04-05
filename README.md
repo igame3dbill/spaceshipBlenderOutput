@@ -26,3 +26,5 @@ Your Space Ship Name_Macro.cmd and Your Spaceship NameGenerator.py to the Destin
  The Macro.cmd executes faceless Blender and the Generator.py
  The Generator.py has specifics for the spaceship file names and clearing the blender scene for sequentil builds
  
+ Command line will open and spit some text out, wait for a bit while it works, then it will tell you when it's done.
+The folder with your ships should open at the end...but if it doesn't go dig it up and see your ships, or drag and drop into your favorite game engine.
