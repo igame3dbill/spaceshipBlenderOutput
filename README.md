@@ -28,3 +28,6 @@ Your Space Ship Name_Macro.cmd and Your Spaceship NameGenerator.py to the Destin
  
  Command line will open and spit some text out, wait for a bit while it works, then it will tell you when it's done.
 The folder with your ships should open at the end...but if it doesn't go dig it up and see your ships, or drag and drop into your favorite game engine.
+
+Here's a preview of what it looks like in Unity with some other assets
+![spaceshipblenderoutputpreview](https://user-images.githubusercontent.com/238475/38341855-ff8bfe26-3837-11e8-9c1d-1e9aef1a210a.png)
